@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color charcoal
+color cream
+color paprika
+color saffron
+color text_primary
+color text_secondary
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MealApp
