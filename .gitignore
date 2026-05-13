@@ -1,0 +1,14 @@
+# Crear el archivo .gitignore
+@"
+# Build
+build/
+app/build/
+.gradle/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+"@ | Out-File -Encoding utf8 .gitignore
